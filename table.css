@@ -1,0 +1,80 @@
+#table{
+   
+    background-color: transparent;
+        color:white;
+         margin: auto;
+         width: 100%;
+         height: 100%;
+         justify-content: center;
+         text-align: center;
+         
+}
+#d1{
+    background-color: green;
+    font-size: 50px;
+    text-align: center;
+    font-family: 'Ubuntu', sans-serif;
+}
+#t1{
+   margin: auto;
+    font-size: 50px;
+}
+
+#t1, tr, td, th{
+    border: 3px solid black;
+    border-radius: 3px;
+}
+
+#head{
+    background-color: rgb(6, 45, 45);
+}
+
+#tr1{
+    background-color:  brown;
+}
+
+#tr2{
+    background-color:  rgb(37, 149, 67);
+}
+
+#tr3{
+    background-color:  rgb(78, 11, 50);
+}
+
+#tr4{
+    background-color:  rgb(47, 62, 138);
+}
+
+#tr5{
+    background-color:  rgb(180, 131, 160);
+}
+
+#tr6{
+    background-color:  rgb(107, 94, 101);
+}
+
+#tr7{
+    background-color:  rgb(156, 169, 55);
+}
+
+@import url('https://fonts.googleapis.com/css2?family=Aoboshi+One&family=Lato:ital,wght@1,100&family=Tilt+Prism&family=Ubuntu:ital,wght@1,300&display=swap');
+
+#td1{
+    background-color: rgb(8, 8, 3);
+}
+
+#td2{
+    background-color: rgb(8, 8, 3);
+}
+
+#td3{
+    background-color: rgb(8, 8, 3);
+}
+
+#td4{
+    background-color: rgb(8, 8, 3);
+}
+
+#td5{
+    background-color: rgb(8, 8, 3);
+}
